@@ -16,6 +16,7 @@ import matplotlib.pyplot as plt
 import plotly.express as px
 
 """**Aprendizagem Baseado em Instâmcias - KNN**"""
+"""**Instance Based Learning - KNN**"""
 
 from sklearn.neighbors import KNeighborsClassifier
 
